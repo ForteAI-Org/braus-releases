@@ -2,13 +2,5 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Braus</title>
-        <item>
-            <title>1.5.0</title>
-            <pubDate>Thu, 22 Oct 2026 11:28:49 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ForteAI-Org/braus-releases/releases/download/v1.5.0/Braus-1.5.0-2.zip" length="30702177" type="application/octet-stream" sparkle:edSignature="DjQgMIJ7cEhVo3wZnX6FurJsLDQmme4O+xGUVxL4OAXvQ6+tz+nM4yDpvuL7CwjjE7tDKRU07RWOYOUVxV8vBg=="/>
-        </item>
     </channel>
 </rss>
