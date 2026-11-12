@@ -3,12 +3,12 @@
     <channel>
         <title>Braus</title>
         <item>
-            <title>0.1.6</title>
-            <pubDate>Wed, 04 Nov 2026 18:56:20 +0100</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <title>0.1.7</title>
+            <pubDate>Thu, 12 Nov 2026 15:10:39 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ForteAI-Org/braus-releases/releases/download/v0.1.6/Braus-0.1.6-12.zip" length="34361875" type="application/octet-stream" sparkle:edSignature="Hl07E03NJOjH9Phhz74PMiL6sEjUhodDvzdxTe8h18ECRB16xxVVN0nkh3XRuCHkJMJuVrxzDXcLLXJXngPWBw=="/>
+            <enclosure url="https://github.com/ForteAI-Org/braus-releases/releases/download/v0.1.7/Braus-0.1.7-13.zip" length="69935326" type="application/octet-stream" sparkle:edSignature="aHeDxoxc4iKtDaE/Scrisqbl7w+ZxWOLOSXoQ6XIiQKW8b9NKV2kOsw9HlIa1SQ5VdfsEtVrONIdzZPE4jIvDg=="/>
         </item>
     </channel>
 </rss>
